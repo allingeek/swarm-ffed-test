@@ -1,0 +1,25 @@
+#kernel
+IpInReceives                    270                0.0
+IpInDelivers                    270                0.0
+IpOutRequests                   271                0.0
+IcmpInMsgs                      252                0.0
+IcmpInErrors                    252                0.0
+IcmpInDestUnreachs              252                0.0
+IcmpOutMsgs                     252                0.0
+IcmpOutDestUnreachs             252                0.0
+IcmpMsgInType3                  252                0.0
+IcmpMsgOutType3                 252                0.0
+TcpActiveOpens                  1                  0.0
+TcpPassiveOpens                 1                  0.0
+TcpEstabResets                  1                  0.0
+TcpInSegs                       18                 0.0
+TcpOutSegs                      19                 0.0
+TcpOutRsts                      1                  0.0
+TcpExtTW                        3                  0.0
+TcpExtTCPPureAcks               6                  0.0
+TcpExtTCPHPAcks                 1                  0.0
+TcpExtTCPAbortOnData            1                  0.0
+TcpExtTCPOrigDataSent           11                 0.0
+IpExtInOctets                   23695              0.0
+IpExtOutOctets                  23963              0.0
+IpExtInNoECTPkts                270                0.0

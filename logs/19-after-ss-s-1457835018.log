@@ -1,0 +1,11 @@
+Total: 7370 (kernel 0)
+TCP:   7220 (estab 12, closed 0, orphaned 0, synrecv 0, timewait 0/0), ports 0
+
+Transport Total     IP        IPv6
+*	  0         -         -        
+RAW	  0         0         0        
+UDP	  6         4         2        
+TCP	  7220      7212      8        
+INET	  7226      7216      10       
+FRAG	  0         0         0        
+

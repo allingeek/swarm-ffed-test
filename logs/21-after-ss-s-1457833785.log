@@ -1,0 +1,11 @@
+Total: 1422 (kernel 0)
+TCP:   1273 (estab 9, closed 274, orphaned 1, synrecv 0, timewait 0/0), ports 0
+
+Transport Total     IP        IPv6
+*	  0         -         -        
+RAW	  0         0         0        
+UDP	  6         4         2        
+TCP	  999       992       7        
+INET	  1005      996       9        
+FRAG	  0         0         0        
+
